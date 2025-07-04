@@ -1,0 +1,152 @@
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="4"
+    android:rowCount="4"
+    android:padding="16dp">
+
+<ToggleButton
+    android:id="@+id/toggle1"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R1 ON"
+    android:textOff="R1 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle2"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R2 ON"
+    android:textOff="R2 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle3"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R3 ON"
+    android:textOff="R3 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle4"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R4 ON"
+    android:textOff="R4 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle5"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R5 ON"
+    android:textOff="R5 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle6"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R6 ON"
+    android:textOff="R6 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle7"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R7 ON"
+    android:textOff="R7 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle8"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R8 ON"
+    android:textOff="R8 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle9"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R9 ON"
+    android:textOff="R9 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle10"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R10 ON"
+    android:textOff="R10 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle11"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R11 ON"
+    android:textOff="R11 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle12"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R12 ON"
+    android:textOff="R12 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle13"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R13 ON"
+    android:textOff="R13 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle14"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R14 ON"
+    android:textOff="R14 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle15"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R15 ON"
+    android:textOff="R15 OFF"/>
+
+<ToggleButton
+    android:id="@+id/toggle16"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textOn="R16 ON"
+    android:textOff="R16 OFF"/>
+</GridLayout>

@@ -1,0 +1,2 @@
+rootProject.name = 'hmi_modbus'
+include ':app'
